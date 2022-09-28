@@ -42,6 +42,14 @@
 
 
 ## Задание 2
+![image](https://user-images.githubusercontent.com/114568072/192839852-f0cb07dd-4a85-417d-a9be-fe68f97c71b0.png)
+![image](https://user-images.githubusercontent.com/114568072/192839894-7ebf2c17-137e-4767-9a30-c7335dc30141.png)
+![image](https://user-images.githubusercontent.com/114568072/192839937-d3e0fcd4-ea2d-4003-82cf-736e147261b5.png)
+![image](https://user-images.githubusercontent.com/114568072/192839973-58c3befb-f115-4acb-bee0-506a5d840184.png)
+![image](https://user-images.githubusercontent.com/114568072/192840033-20ed77df-22d5-41bc-bc28-8e8560fd0efd.png)
+![image](https://user-images.githubusercontent.com/114568072/192840077-0c9d33e9-226b-4b8c-8fe4-3affd28ced50.png)
+![image](https://user-images.githubusercontent.com/114568072/192840137-75b4c5f7-a940-4ba0-b2b2-a15c06fd1397.png)
+
 
 ## Выводы
 
