@@ -35,6 +35,10 @@
 
 ## Задание 1
 ![image](https://user-images.githubusercontent.com/114568072/192839134-312c8f08-1589-4c4e-8852-e459549beeb6.png)
+![image](https://user-images.githubusercontent.com/114568072/192839517-37cbe6bd-564e-44b4-8c68-6c93ce67816f.png)
+![image](https://user-images.githubusercontent.com/114568072/192839553-2713a0b6-a7ab-4d3c-8319-4b7a582a97d5.png)
+![image](https://user-images.githubusercontent.com/114568072/192839590-3baaa2b5-fe37-41b5-a4cf-a789ff9e2fc5.png)
+
 
 
 ## Задание 2
